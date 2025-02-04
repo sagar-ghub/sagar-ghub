@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagar-ghub
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning b-tech in computer science
-- 💞️ I’m looking to collaborate on open source web dev projects
+- 🌱 I’m currently looking for a job
+- 💞️ Lets do some coding and scale systems
 - 📫 you can reach me at sagarmohanty5589@gmail.com
 
 <!---
